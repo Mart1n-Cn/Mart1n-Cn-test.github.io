@@ -33,9 +33,9 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+Seminars
 ======
-  <ul>{% for post in site.talks reversed %}
+  <ul>{% for post in site.seminars reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
   
