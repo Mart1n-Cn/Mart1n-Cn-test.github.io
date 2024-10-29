@@ -13,4 +13,4 @@ I'm a third year Ph.D student from [NSD](https://nsd.pku.edu.cn/), [Peking Unive
 
 You can find my CV here: [Curriculum Vitae](https://github.com/Mart1n-Cn/Mart1n-Cn-test.github.io/blob/master/assets/CV.pdf).
 
-You can also contact me via [Wechat](https://github.com/Mart1n-Cn/Mart1n-Cn-test.github.io/blob/master/images/wechat.png)
+You can also contact me via [Wechat](https://github.com/Mart1n-Cn/Mart1n-Cn-test.github.io/blob/master/images/wechat.png).
