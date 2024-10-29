@@ -9,7 +9,7 @@ redirect_from:
 
 Hi, this is a test webpage for myself to learn how to make an academic webpage. All the information is made up, please don't take it seriously :)
 
-I'm a third year Ph.D student from [NSD](https://nsd.pku.edu.cn/), [Peking University](https://www.pku.edu.cn/). My research interest includes environmental economics @, computergraphics, machine learning, and computational photography.
+I'm a third year Ph.D student from [NSD](https://nsd.pku.edu.cn/), [Peking University](https://www.pku.edu.cn/). My research interest includes environmental economics, health economics, and development economics.
 
 You can find my CV here: [Curriculum Vitae](https://github.com/Mart1n-Cn/Mart1n-Cn-test.github.io/blob/master/assets/CV.pdf).
 
