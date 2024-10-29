@@ -1,5 +1,5 @@
 ---
-title: "Paper Title <span style="background-color: #005f73; color: white; padding: 2px 6px; border-radius: 4px;">Mechanism Design</span> "
+title: "Paper Title"
 collection: publications
 category: papers
 permalink: /publication/paper-title-number
