@@ -12,4 +12,4 @@ Hi, this is a test webpage for myself to learn how to make an academic webpage. 
 I'm a third year Ph.D student from [NSD](https://nsd.pku.edu.cn/), [Peking University](https://www.pku.edu.cn/). My research interest includes environmental economics @, computergraphics, machine learning, and computational photography.
 
 You can find my CV here: [XX's Curriculum Vitae](../assets/CV.pdf).
-[Email](mailto 2662084413@qq.com)/ [Wechat](../images/wechat.jpg)
+[Email](mailto 2662084413@qq.com)/ [Wechat](../images/wechat.png)
