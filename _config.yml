@@ -22,9 +22,9 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "This is my Name"
   pronouns         :  "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Hi, nice to meet you!"
   location         : "Beijing, China"
   employer         : "Peking University"
   uri              : # URL
